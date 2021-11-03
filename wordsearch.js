@@ -12,6 +12,7 @@ const wordSearch = (letters, word) => {
   return false;
 };
  
+
 const transpose = function(matrix) {
   //Define a empty matrix with rows = column of inp and vice versa
   let rows = matrix.length; //rows of inp mat
